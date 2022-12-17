@@ -11,17 +11,17 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 keyboard = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton("➕ Grubuna Ekle", url=f"http://t.me/MajesteKelimeBot?startgroup=new")
+        InlineKeyboardButton("➕ Grubuna Ekle", url=f"http://t.me/Kelimeyi_turet_bot?startgroup=new")
     ],
     [
-        InlineKeyboardButton("🇹🇷 Sahibim", url="t.me/MajesteSahip"),
-        InlineKeyboardButton("💬 Chat", url="t.me/majesteler"),
+        InlineKeyboardButton("🇹🇷 Sahibim", url="t.me/Sohbetf"),
+        InlineKeyboardButton("💬 Chat", url="t.me/Sohbetf"),
     ]
 ])
 
 
 START = """
-**🔮 Merhaba, Majeste Kelime Bota hoş geldin bu bot ile Kelime türet oyunu veya kelime anlatmaca oynayabilirsin..**
+**🔮 Merhaba, @Sohbetf Kelime Bota hoş geldin bu bot ile Kelime türet oyunu veya kelime anlatmaca oynayabilirsin..**
 
 ➤ Bilgi için 👉 /help Tıklayın. Komutlar kolay ve basittir. 
 """
