@@ -1,27 +1,27 @@
 {
-  "name": "Kelime Evreni",
+  "name": "çavreş",
   "logo": "https://telegra.ph/file/dfa517fd00b6ca5f7ac9.jpg",
   "description": "Telegram kelime bilgi oyun",
   "env": {
     "API_ID": {
       "description": "@otomytelegrambot dan api hash api id alınız.",
-      "value": ""
+      "value": "21246352"
     },
     "API_HASH": {
       "description": "@otomytelegrambot dan api hash api id alınız.",
-      "value": ""
+      "value": "7ce86a8db0b415a36f9e560a0f244b88"
     },
     "TOKEN": {
       "description": "@botfather den aldığınız tokeni giriniz",
-      "value": ""
+      "value": "6398477535:AAG2JDIkMw4bw6wIh-qIC8RhUTiJduQGp3Q"
     },
     "USERNAME": {
       "description": "Kullanıcı adınızı giriniz.",
-      "value": ""
+      "value": "rahatsizetmeyiniz"
     },
     "OWNER_ID": {
       "description": "Bot Sahibinin İD girin.",
-      "value": ""
+      "value": "6381139369"
     }
   },
   "buildpacks": [
